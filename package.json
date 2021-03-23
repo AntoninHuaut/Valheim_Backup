@@ -1,0 +1,15 @@
+{
+  "name": "valheimbackup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basic-ftp": "^4.6.3",
+    "dayjs": "^1.10.4"
+  }
+}
